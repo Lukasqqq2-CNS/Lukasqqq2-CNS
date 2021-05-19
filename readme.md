@@ -1,1 +1,1 @@
-MyPlot Plugin mit Merge  funktion, Rand und Wände.
+MyPlot Plugin mit Merge  funktion, Rand und  Wände.
